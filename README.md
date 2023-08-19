@@ -1,4 +1,4 @@
-# visceral-realists.org
+# Visceral Realists
 
 Repository for the Visceral Realists web presence.
 
