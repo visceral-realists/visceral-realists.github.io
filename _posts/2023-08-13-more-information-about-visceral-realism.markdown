@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More information about Visceral Realism"
-date:   2023-08-18 22:13:22 -0400
+date:   2023-08-13 22:13:22 -0400
 categories: manifesto
 ---
 1. Visceral Realism is open source computer music.
