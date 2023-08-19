@@ -16,3 +16,9 @@ main {
 a {
   text-decoration: none;
 }
+
+@media (max-width: 500px) {
+  main {
+    width: 75%;
+  }
+}
