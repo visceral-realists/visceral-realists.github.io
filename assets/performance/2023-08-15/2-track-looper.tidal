@@ -1,0 +1,41 @@
+{-
+2023-08-15 live at Record Shop
+Visceral Realists: Andy Borsz & Zona Zanjeros
+Performer: Andy Borsz
+Dependencies: https://github.com/thgrund/tidal-looper
+-}
+
+linput = pI "linput"
+lname = pS "lname"
+
+once $ s "looper" # linput "1" # n "0"
+
+once $ s "looper" # linput "1" # n "1"
+
+d1 $ s "loop" # n "0"
+  # distort (cF 0 "0")
+  # delay 1
+  # delayt (cF 0 "1")
+  # delayfb (cF 0 "2")
+  # gain (cF 0.8 "3")
+  # djf (cF 0.5 "4")
+  # octer (cF 0 "5")
+  # room (cF 0 "6")
+  # sz (cF 0 "7")
+
+d2 $ s "loop" # n "1"
+  # distort (cF 0 "8")
+  # delay 1
+  # delayt (cF 0 "9")
+  # delayfb (cF 0 "10")
+  # gain (cF 0.8 "11")
+  # djf (cF 0.5 "12")
+  # octer (cF 0 "13")
+  # room (cF 0 "14")
+  # sz (cF 0 "15")
+
+once $ s "freeLoops"
+
+setcps 0.5
+
+hush
