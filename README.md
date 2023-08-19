@@ -19,7 +19,7 @@ Visceral Realism `MUST` be performed by more than one person. Solo performances
 are not considered Visceral Realism.
 
 Visceral Realists `MUST` use only open source software during performances.
-Commercial software `MAY NOT` be used.
+Commercial software `MUST NOT` be used.
 
 Visceral Realists `SHOULD` synchronize their computers during performances.
 
@@ -41,6 +41,10 @@ performances and make their code available freely.
 Visceral Realism `MUST NOT` be merchandised. Visceral Realists can produce and
 sell merch under other names but no one may produce merchandise under the
 branding "Visceral Realists".
+
+Visceral Realists as a brand `MUST NOT` be used as a name or handle on social
+media platforms. For example @visceralrealists is not permitted to be used by
+anyone. Hashtags `MAY` be used instead.
 
 Visceral Realists `MUST` observe the Code of Conduct from this repository
 whenever performing or acting publically as a Visceral Realist.
