@@ -1,0 +1,76 @@
+setcps (1500/60/4)
+
+d1 $ fast 2 $ randslice 60 $ sound "dru:4"
+ # cut 2
+  # shape "0.95"
+  # pan (fast "0.6" $ sine)
+   # squiz "[0.79?|0.99?|0.59609999?]"
+  # delay "[1?|3?|0.3?|0.7?|0.44?]"
+  # delaytime "[0.9?|0.93?|0.81?|3.9?|0.333?]"
+  # delayfeedback "[|0.02222?|0.9?|0.877?|0.8?|9?]"
+  # speed "[0.9?|2?|1?|6?|0.2?|7?]" 
+
+silence d1
+
+d2 $ fast 2 $ smash 8 [0.5,0.6,0.7,0.8] $ randslice 60 $ sound "guitar:17"
+ # cut 2
+ # speed "[-0.5|-0.1|0.12|0.1]"
+   # squiz "[0.79?|0.99?|0.59609999?]"
+  # delay "[1?|3?|0.3?|0.7?|0.44?]"
+  # delaytime "[0.9?|0.93?|0.81?|3.9?|0.333?]"
+  # delayfeedback "[|0.02222?|0.9?|0.877?|0.8?|9?]"
+  # waveloss "0.888"
+  # pan (fast "0.8" $ sine)
+
+silence d2
+
+d3 $ fast 2  $ smash 8 [0.5,0.6,0.7,0.8] $ randslice "[1|3|5|7]" $ sound "other:2"
+ # cut 2
+ # speed "[-0.3|-1|0.5|1]"
+  # shape "0.95"
+  # pan (fast "0.3" $ sine)
+   # squiz "[0.999|0.88|0.77?|0.66]"
+
+silence d3
+
+d4 $ fast 2  $ smash 8 [0.5,0.6,0.7,0.8] $ randslice "[1|3|5|7]" $ sound "bass:7"
+ # cut 2
+ # speed "[-0.454|-1|0.88|0.1|0.8|1]"
+  # shape "0.99"
+  # pan (fast "0.95" $ saw)
+   # squiz "[0.999|0.88|0.77?|0.66]"
+
+silence d4
+
+hush
+
+
+SAFETY NET
+
+setcps (120/60/4)
+
+d1 $ fast 2 $ randslice 60 $ sound "dru:4"
+ # cut 2
+ # speed "[-0.99|-1|0.99|1]"
+  # shape "0.95"
+  # pan (fast "0.6" $ sine)
+
+d2 $ fast 2 $ randslice 60 $ sound "guitar:17"
+ # cut 2
+ # speed "[-0.99|-1|1.12|1]"
+  # shape "0.95"
+  # pan (fast "0.8" $ sine)
+
+d3 $ fast 2 $ randslice 60 $ sound "other:2"
+ # cut 2
+ # speed "[-0.99|-1|0.95|1]"
+  # shape "0.95"
+  # pan (fast "0.3" $ sine)
+
+d4 $ fast 2 $ randslice 30 $ sound "bass:7"
+ # cut 2
+ # speed "[-0.9|-1|0.88|1.1|0.8|1]"
+  # shape "0.99"
+  # pan (fast "0.95" $ sine)
+
+hush
