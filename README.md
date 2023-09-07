@@ -28,9 +28,9 @@ unconventional, for example traditional "soloing" on a MIDI keyboard `SHOULD`
 be discouraged.
 
 Visceral Realists `MUST NOT` use audio hardware devices. Visceral Realists
-`MAY` use sound-producing "accessories" during performances provided they are
-live-recorded or processed via computer.  For example, a cactus and a bow is
-acceptable, a guitar effects pedal or drum machine is not.
+`MAY` use everyday objects as sound-producing "accessories" during performances
+provided they are live-recorded or processed via computer.  For example, an
+office stapler is acceptable, a guitar effects pedal or drum machine is not.
 
 Visceral Realists `MUST` show their work, either by using a projector or
 printed documentation.
