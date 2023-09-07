@@ -51,9 +51,6 @@ whenever performing or acting publically as a Visceral Realist.
 
 ## TODO:
 
-  * Add a Code of Conduct for both contributing to this repository and for
-    performing as Visceral Realists
-
   * Explain in this README how to submit a pull request to add a blog post
     about a performance
 
