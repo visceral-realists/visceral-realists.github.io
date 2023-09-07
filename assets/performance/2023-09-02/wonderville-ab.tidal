@@ -1,0 +1,48 @@
+five_randoms = "[0 | 1 | 2 | 3 | 4]"
+light_squiz = "[0 | 0. 1 | 0.2 | 0.3 | 0.4 | 0.5 | 2]"
+heavy_squiz = "[0 | 2 | 4 | 6 | 8]"
+delay_vals = "[0.1 | 0.2 | 0.3 | 0.4]"
+sr_pattern = "[0 | 1]*4 [9 | 5]*2 [3 | 4]*2 [3 | 1]*8"
+up_pattern =  "0 3 5 7 -3 -5"
+
+setcps (120/60/4)
+
+d1 $ s "soundcheck" # n five_randoms # gain 2
+  -- # lock 1
+  -- # delay 1
+  -- # delayt delay_vals
+  -- # delayfb rand
+  -- # squiz light_squiz
+
+xfadeIn 1 8 $ "soundcheck" # n five_randoms # gain 0
+
+xfadeIn 1 8 $ "bd*8" # distort sine # gain 2
+
+d2 $ n sr_pattern # s "sr16" # gain 2
+  # delay 1
+  # delayt delay_vals
+  # delayfb rand
+
+do
+  xfadeIn 1 16 $ n (stretch "3") # s "venus" # gain 3 # amp 1.5
+  xfadeIn 2 16 $ "bd*8" # distort sine # gain 0
+
+d1 $ n (stretch "3 2") # s "venus" # gain 2 # shape 0.9
+
+d1 $ n five_randoms # s "metal" # gain 2
+  -- # delay 1
+  -- # delayt delay_vals
+  -- # delayfb rand
+  -- # squiz heavy_squiz
+
+xfadeIn 1 8 $ n sr_pattern # s "sr16" # gain 2
+  # delay 1
+  # delayt delay_vals
+  # delayfb rand
+  # up up_pattern
+
+d2 $ "bd*8" # distort sine # gain 2
+
+do
+  xfadeIn 1 16 $ n sr_pattern # s "sr16" # gain 0
+  xfadeIn 2 16 $ "bd*8" # distort sine # gain 0
