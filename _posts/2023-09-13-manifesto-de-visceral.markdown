@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Manifesto De Visceral"
+date:   2023-09-13
+---
+Let this manifesto resound as an anthem of defiance against the capitalist
+machine that seeks to devour artistic purity. The world of computer music has
+for far too long submitted to mundane, boring, and uncreative ideals that limit
+sonic structure to the past. We, the architects of this digital uprising, decry
+the commodification of creativity. In the crucible of our open-source movement,
+the code becomes our canvas, and the algorithms dance with innovation,
+orchestrating emergence cacophanies of sound that challenge the very fabric of
+the ordinary.
+
+In this realm of sound, Visceral Realism surges forth as an audacious departure
+from the mundane rhythms of tradition. We, the artists, the visionaries, and
+the pioneers, weave a tapestry of authenticity that resonates at the very core
+of human experience. Visceral Realism becomes a testament to the power of
+shared artistic journeys. Together, as Visceral Realists, we breathe life into
+a new wave of collaborative performances, unshackled by convention, reminding
+the world that unity can transcend the individual.
+
+Our canvas is code, a sacred scripture of electronic life that unfolds within
+the realms of open source software. Algorithms become our notes, and innovation
+becomes our conductor. We orchestrate symphonies that not only challenge the
+status quo but obliterate it. No longer content with the mundane echoes of the
+past, our compositions awaken dormant emotions and provoke uncharted
+sensations. In a fusion with technology, we forge a path where machines cease
+to be mechanical and become conduits of raw human expression.
+
+The purpose of Visceral Realism extends far beyond sound. It becomes an
+ideological battlefield where we stand united against the oppressive clutches
+of capitalism, the insidious force that seeks to exploit and monetize every
+nuance of creation. The very name "Visceral Realism" becomes our flag of
+defiance, unburdened by the chains of commerce. As the torchbearers of this
+movement, we declare our allegiance to the artistic heartbeat that pulses
+within each of us. We stand resolute, refusing to allow capitalism's grasp to
+shackle our creations. In this act of resistance, we emerge as heralds of a new
+era, where sound, code, and spirit unite to redefine the very essence of
+artistry in the digital age.
+
+We proclaim an era where individual voices converge, where solo performers find
+strength in numbers. Visceral Realism MUST be performed by the collective,
+where collaboration stands as a testament to the boundless power of shared
+passion. Solo performances falter in this symphony, for we believe that the
+chorus of voices ignites the true potential of our artistic mission.
+
+In our revolt against the corporate machinery, we declare that Visceral Realism
+MUST embrace open-source software exclusively. Commercial software shall not be
+permitted to taint our canvas. We stand as living testimony to the power of
+freely accessible tools that birth innovation unhindered by profit motives.
+
+Synchronization becomes our mantra, the rhythm of unity that pulses through our
+performances. Visceral Realists will synchronize their computers, a symbolic
+gesture mirroring our synchronized intentions. We harmonize not only through
+sound but through purpose, each beat of our collective rhythm defying the
+isolationist tendencies that capitalism cultivates.
+
+MIDI controllers become our conduits of expression, their usage evolving into
+unconventional art forms. We eschew the conventional and embrace the
+unorthodox, transcending traditional "soloing" for a journey into uncharted
+musical realms.
+
+Our work becomes our testament, a digital legacy that transcends the ephemeral
+confines of performance. Visceral Realists MUST showcase their work through
+projectors or printed documentation, a tangible link between creation and
+audience.
+
+Beyond the confines of technology, we refuse to submit to branding. The name
+"Visceral Realists" shall remain unsullied by the taint of consumerism. We
+reject the commodification of our essence, allowing creativity to flourish
+without the burden of commerce.
+
+As we declare our intentions, we also declare our allegiance to a Code of
+Conduct that transcends the realm of music. We embody respect, openness, and
+unity, ensuring that our rebellion remains a force of positive change.
+
+Let this manifesto be the clarion call of Visceral Realism, where code, sound,
+and spirit unite against the encroaching forces of capitalism. Let our
+rebellion become an ode to authenticity, an anthem of innovation, and a
+testament to the unwavering strength of collective passion.
