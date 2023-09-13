@@ -49,6 +49,60 @@ anyone. Hashtags `MAY` be used instead.
 Visceral Realists `MUST` observe the Code of Conduct from this repository
 whenever performing or acting publically as a Visceral Realist.
 
+## Contributing
+
+The website is built with Jekyll, a blogging framework written in Ruby, and
+deployed with GitHub pages.
+
+### Dependencies
+
+* Git
+* Ruby
+* Jekyll
+* Bundler
+
+Install Git if necessary folloiwng the instructions here: [Installing
+Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+Jekyll is a Ruby Gem that can be installed on most systems. For Ruby
+installation, follow the instructions for your operating system at the URL
+below.
+
+[https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
+
+With Ruby installed to your system, install Jekyll and Bundler:
+
+```
+gem install jekyll bundler
+```
+
+Once you have Git, Ruby, Bundler, and Jekyll set up you're set to run the code
+in this repository.
+
+### Installation
+
+Set up the project with the following:
+
+```
+git clone git@github.com:visceral-realists/visceral-realists.github.io.git
+cd visceral-realists.github.io
+bundle install
+```
+
+To start the Jekyll server, run:
+
+```
+bundle exec jekyll serve
+```
+
+View the running site at [http://localhost:4000/](http://localhost:4000/).
+
+### Deployment
+
+The site is deployed via a GitHub Action that follows the merge of a Pull
+Request into the `main` branch of this repo at origin. There is no need to
+deploy from the command line.
+
 ## TODO:
 
   * Explain in this README how to submit a pull request to add a blog post
