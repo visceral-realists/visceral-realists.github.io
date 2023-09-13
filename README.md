@@ -15,8 +15,8 @@ and use the name "Visceral Realists". During the performance observe the
 
 ### Specification for Visceral Realism
 
-The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”,
-“SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be
+The key words `MUST`, `MUST NOT`, `REQUIRED`, `SHALL`, `SHALL NOT`, `SHOULD`,
+`SHOULD NOT`, `RECOMMENDED`, `MAY`, and `OPTIONAL` in this document are to be
 interpreted as described in [RFC
 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
@@ -69,8 +69,8 @@ deployed with GitHub pages.
 Install Git if necessary folloiwng the instructions here: [Installing
 Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-Jekyll is a Ruby Gem that can be installed on most systems. For Ruby
-installation, follow the instructions for your operating system at the URL
+Bundler and Jekyll are Ruby gems that can be installed on most systems. For
+Ruby installation, follow the instructions for your operating system at the URL
 below.
 
 [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
