@@ -81,8 +81,8 @@ With Ruby installed to your system, install Jekyll and Bundler:
 gem install jekyll bundler
 ```
 
-Once you have Git, Ruby, Bundler, and Jekyll set up you're set to run the code
-in this repository.
+Once you have Git, Ruby, Bundler, and Jekyll installed you're ready to run the
+code in this repository.
 
 ### Installation
 
@@ -104,8 +104,8 @@ View the running site at [http://localhost:4000/](http://localhost:4000/).
 
 ### Deployment
 
-The site is deployed via a GitHub Action that follows the merge of a Pull
-Request into the `main` branch of this repo at origin. There is no need to
+The site is deployed via a GitHub Action that follows the merge of a pull
+request into the `main` branch of this repo at origin. There is no need to
 deploy from the command line.
 
 ## TODO:
