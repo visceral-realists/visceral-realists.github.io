@@ -10,10 +10,15 @@ the requirements established in this repository.
 
 Organizing a Visceral Realists performance is just like organizing a
 performance for any other band or musical act. Simply book your gig as normal
-and use the name "Visceral Realists". During the performance observe the *Rules
-for Visceral Realism.*
+and use the name "Visceral Realists". During the performance observe the
+*Specification for Visceral Realism.*
 
-### Rules for Visceral Realism
+### Specification for Visceral Realism
+
+The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”,
+“SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be
+interpreted as described in [RFC
+2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
 Visceral Realism `MUST` be performed by more than one person. Solo performances
 are not considered Visceral Realism.
