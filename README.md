@@ -23,10 +23,13 @@ interpreted as described in [RFC
 Visceral Realism `MUST` be performed by more than one person. Solo performances
 are not considered Visceral Realism.
 
+Visceral Realism `MUST NOT` be boring. Visceral Realists `MAY` interpret this
+however they choose.
+
 Visceral Realists `MUST` use only open source software during performances.
 Commercial software `MUST NOT` be used.
 
-Visceral Realists `SHOULD` synchronize their computers during performances.
+Visceral Realists `MAY` synchronize their computers during performances.
 
 Visceral Realists `MAY` use MIDI controllers. Usage `SHOULD` attempt to be
 unconventional, for example traditional "soloing" on a MIDI keyboard `SHOULD`
