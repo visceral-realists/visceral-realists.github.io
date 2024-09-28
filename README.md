@@ -1,3 +1,9 @@
+# Archival Note
+
+This repository is archived. We have removed the Ruby and Jekyll dependencies
+for the website and made contribution more clear. The new repository is
+[here](https://github.com/visceral-realists/visceral-realists.org).
+
 # Visceral Realists
 
 Repository for the Visceral Realists web presence.
